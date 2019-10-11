@@ -38,49 +38,45 @@ void setup() {
 
 // These sensors measure the amount of light reflected, therefore a lower value means a darker reading
 // Ideally, we keep the difference between the left sensor and the right sensor the same, but there might
-// be some electrical discrepencies between the two, so we should have a built in error factor
-//
-// We will subtract the left sensor from the right sensor. -> difference = left_sensor - right_sensor
-  // If the value is positive, then the right sensor is getting a darker reading than the left (the line is under it)
-    // Therefore, we should turn left to correct
-  // else, the right sensor is getting a brighter reading than the left (the line is under the left sensor)
-    // Therefore we should turn right to correct
 
-
-int left_sensor;
-int center_sensor;
 int right_sensor;
-int sensor_difference;
+float sensor_difference;
+int left_velocity;
+int right_velocity;
 
-
-int base_speed = 0.0 * 255;
-float scale_factor = 0;
+float base_speed = 0.2;
+float scale_factor = 0.1;
 
 void loop() {
 
-  left_sensor = analogRead(5);
-  center_sensor = analogRead(4);
-  right_sensor = analogRead(3);
+  left_sensor = analogRead(2);
+  center_sensor = analogRead(1);
+  right_sensor = analogRead(0);
 
 
-  Serial.println("\n\nSensor values:");
-  Serial.print(left_sensor);
-  Serial.print(" | ");
-  Serial.print(center_sensor);
-  Serial.print(" | ");
-  Serial.print(right_sensor);
+  // Serial.println("\n\nSensor values:");
+  // Serial.print(left_sensor);
+  // Serial.print(" | ");
+  // Serial.print(center_sensor);
+  // Serial.print(" | ");
+  // Serial.print(right_sensor);
 
 
   
   // Let's implement the simple bang bang controller to start
   // We will implement it in the skeleton of a proportional controller
-  // sensor_difference = left_sensor - right_sensor;
+  sensor_difference =  2.0 * (left_sensor - center_sensor)/315.0;
 
+  // left_velocity =  map(base_speed - (sensor_difference * scale_factor), 0.0, 1.0, 0.0, 255.0 );
+  // right_velocity =  map(base_speed + (sensor_difference * scale_factor), 0.0, 1.0, 0.0, 255.0 );
+  left_velocity =  255.0*(base_speed - (sensor_difference * scale_factor));
+  right_velocity = 255.0*(base_speed + (sensor_difference * scale_factor));
 
-  // leftMotor->run(FORWARD);
-  // rightMotor->run(BACKWARD);
+  leftMotor->run(FORWARD);
+  rightMotor->run(BACKWARD);
 
-  // leftMotor->setSpeed(base_speed + sensor_difference * scale_factor);
-  // rightMotor->setSpeed(base_speed - sensor_difference *scale_factor );
-  delay(200);
+  leftMotor->setSpeed(left_velocity);
+  rightMotor->setSpeed(right_velocity);
+  
+  delay(16);
 }
