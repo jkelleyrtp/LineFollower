@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.osx": {
+        "PATH": "/Users/jonkelley/.platformio/penv/bin:/Users/jonkelley/.platformio/penv:/Users/jonkelley/.node_modules_global/bin:/Users/jonkelley/bin:/usr/local/bin:/Users/jonkelley/.cargo/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Applications/VMware Fusion.app/Contents/Public:/Library/TeX/texbin:/opt/X11/bin:/Library/Frameworks/Mono.framework/Versions/Current/Commands:/Users/jonkelley/bin:/Users/jonkelley/Development/Support/MagicLeap/mlsdk/v0.22.0/:/Users/jonkelley/Development/Support/MagicLeap/mlsdk/v0.22.0/tools/mldb",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}

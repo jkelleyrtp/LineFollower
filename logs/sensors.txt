@@ -1,0 +1,1008 @@
+
+Sensor values:
+496 | 430 | 49
+
+Sensor values:
+495 | 428 | 49
+
+Sensor values:
+495 | 428 | 49
+
+Sensor values:
+496 | 429 | 49
+
+Sensor values:
+495 | 429 | 49
+
+Sensor values:
+494 | 427 | 49
+
+Sensor values:
+503 | 431 | 49
+
+Sensor values:
+505 | 429 | 49
+
+Sensor values:
+505 | 428 | 49
+
+Sensor values:
+504 | 428 | 49
+
+Sensor values:
+505 | 429 | 49
+
+Sensor values:
+503 | 430 | 49
+
+Sensor values:
+487 | 429 | 49
+
+Sensor values:
+481 | 433 | 49
+
+Sensor values:
+474 | 432 | 49
+
+Sensor values:
+470 | 431 | 49
+
+Sensor values:
+468 | 433 | 49
+
+Sensor values:
+465 | 432 | 49
+
+Sensor values:
+472 | 432 | 49
+
+Sensor values:
+512 | 429 | 50
+
+Sensor values:
+449 | 449 | 62
+
+Sensor values:
+473 | 473 | 69
+
+Sensor values:
+473 | 472 | 68
+
+Sensor values:
+472 | 472 | 67
+
+Sensor values:
+471 | 471 | 66
+
+Sensor values:
+471 | 470 | 66
+
+Sensor values:
+470 | 470 | 65
+
+Sensor values:
+470 | 470 | 65
+
+Sensor values:
+470 | 469 | 65
+
+Sensor values:
+469 | 469 | 65
+
+Sensor values:
+469 | 469 | 65
+
+Sensor values:
+469 | 469 | 64
+
+Sensor values:
+469 | 468 | 64
+
+Sensor values:
+469 | 468 | 64
+
+Sensor values:
+469 | 468 | 64
+
+Sensor values:
+469 | 468 | 64
+
+Sensor values:
+468 | 468 | 64
+
+Sensor values:
+468 | 468 | 64
+
+Sensor values:
+468 | 468 | 64
+
+Sensor values:
+468 | 467 | 64
+
+Sensor values:
+468 | 467 | 64
+
+Sensor values:
+468 | 467 | 64
+
+Sensor values:
+468 | 467 | 64
+
+Sensor values:
+468 | 467 | 64
+
+Sensor values:
+468 | 467 | 64
+
+Sensor values:
+468 | 467 | 64
+
+Sensor values:
+468 | 467 | 64
+
+Sensor values:
+467 | 467 | 63
+
+Sensor values:
+465 | 465 | 63
+
+Sensor values:
+443 | 451 | 58
+
+Sensor values:
+655 | 475 | 65
+
+Sensor values:
+562 | 570 | 209
+
+Sensor values:
+548 | 716 | 413
+
+Sensor values:
+688 | 590 | 248
+
+Sensor values:
+482 | 473 | 65
+
+Sensor values:
+477 | 470 | 64
+
+Sensor values:
+478 | 470 | 64
+
+Sensor values:
+477 | 469 | 63
+
+Sensor values:
+476 | 469 | 63
+
+Sensor values:
+452 | 466 | 62
+
+Sensor values:
+502 | 469 | 63
+
+Sensor values:
+489 | 471 | 64
+
+Sensor values:
+480 | 472 | 64
+
+Sensor values:
+453 | 465 | 62
+
+Sensor values:
+527 | 471 | 63
+
+Sensor values:
+575 | 466 | 62
+
+Sensor values:
+498 | 465 | 62
+
+Sensor values:
+491 | 474 | 69
+
+Sensor values:
+477 | 467 | 63
+
+Sensor values:
+478 | 468 | 63
+
+Sensor values:
+477 | 468 | 63
+
+Sensor values:
+477 | 468 | 63
+
+Sensor values:
+477 | 468 | 63
+
+Sensor values:
+250 | 249 | 43
+
+Sensor values:
+456 | 452 | 58
+
+Sensor values:
+456 | 452 | 58
+
+Sensor values:
+456 | 452 | 58
+
+Sensor values:
+456 | 453 | 58
+
+Sensor values:
+449 | 445 | 55
+
+Sensor values:
+482 | 475 | 65
+
+Sensor values:
+818 | 812 | 618
+
+Sensor values:
+1006 | 1003 | 980
+
+Sensor values:
+1019 | 1019 | 1018
+
+Sensor values:
+1019 | 1020 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1016 | 1015 | 1012
+
+Sensor values:
+1018 | 1018 | 1018
+
+Sensor values:
+1019 | 1019 | 1019
+
+Sensor values:
+1012 | 1012 | 1006
+
+Sensor values:
+1005 | 996 | 964
+
+Sensor values:
+1013 | 1009 | 988
+
+Sensor values:
+1017 | 1008 | 972
+
+Sensor values:
+1005 | 997 | 986
+
+Sensor values:
+1000 | 1000 | 938
+
+Sensor values:
+1019 | 1019 | 1017
+
+Sensor values:
+1019 | 1020 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1020 | 1020
+
+Sensor values:
+1019 | 1020 | 1020
+
+Sensor values:
+1019 | 1020 | 1020
+
+Sensor values:
+1019 | 1020 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1019
+
+Sensor values:
+1015 | 1014 | 1007
+
+Sensor values:
+981 | 967 | 903
+
+Sensor values:
+858 | 837 | 670
+
+Sensor values:
+666 | 672 | 382
+
+Sensor values:
+468 | 453 | 57
+
+Sensor values:
+465 | 449 | 57
+
+Sensor values:
+465 | 452 | 57
+
+Sensor values:
+464 | 451 | 57
+
+Sensor values:
+464 | 451 | 57
+
+Sensor values:
+464 | 451 | 57
+
+Sensor values:
+461 | 447 | 56
+
+Sensor values:
+458 | 448 | 56
+
+Sensor values:
+465 | 466 | 62
+
+Sensor values:
+795 | 776 | 540
+
+Sensor values:
+965 | 943 | 851
+
+Sensor values:
+1005 | 1001 | 977
+
+Sensor values:
+1015 | 1014 | 1008
+
+Sensor values:
+1018 | 1018 | 1016
+
+Sensor values:
+1019 | 1019 | 1019
+
+Sensor values:
+1019 | 1020 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1020 | 1020
+
+Sensor values:
+1019 | 1020 | 1020
+
+Sensor values:
+1019 | 1020 | 1020
+
+Sensor values:
+1019 | 1020 | 1020
+
+Sensor values:
+1020 | 1020 | 1020
+
+Sensor values:
+1019 | 1020 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1018 | 1016
+
+Sensor values:
+1019 | 1019 | 1017
+
+Sensor values:
+1019 | 1020 | 1020
+
+Sensor values:
+1019 | 1020 | 1020
+
+Sensor values:
+1019 | 1020 | 1020
+
+Sensor values:
+1019 | 1019 | 1019
+
+Sensor values:
+1019 | 1019 | 1018
+
+Sensor values:
+1019 | 1019 | 1018
+
+Sensor values:
+1019 | 1019 | 1019
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1020 | 1020 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1020 | 1020
+
+Sensor values:
+1019 | 1020 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1020 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1020 | 1020
+
+Sensor values:
+1019 | 1020 | 1020
+
+Sensor values:
+1019 | 1020 | 1020
+
+Sensor values:
+1019 | 1020 | 1020
+
+Sensor values:
+1019 | 1020 | 1020
+
+Sensor values:
+1019 | 1020 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1019
+
+Sensor values:
+1019 | 1019 | 1019
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1018 | 1019 | 1020
+
+Sensor values:
+1017 | 1011 | 955
+
+Sensor values:
+1017 | 1003 | 344
+
+Sensor values:
+1019 | 1010 | 51
+
+Sensor values:
+1019 | 1009 | 50
+
+Sensor values:
+1018 | 1009 | 50
+
+Sensor values:
+1019 | 1009 | 50
+
+Sensor values:
+1017 | 1012 | 881
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1018
+
+Sensor values:
+1019 | 1018 | 1005
+
+Sensor values:
+1019 | 1018 | 987
+
+Sensor values:
+1019 | 1017 | 944
+
+Sensor values:
+1018 | 1018 | 1006
+
+Sensor values:
+1018 | 1018 | 1011
+
+Sensor values:
+1018 | 1018 | 1016
+
+Sensor values:
+1018 | 1018 | 1016
+
+Sensor values:
+1018 | 1018 | 1016
+
+Sensor values:
+1018 | 1018 | 1016
+
+Sensor values:
+1019 | 1019 | 1018
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1020 | 1020
+
+Sensor values:
+1019 | 1020 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1020 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1019
+
+Sensor values:
+1019 | 1019 | 1019
+
+Sensor values:
+1019 | 1019 | 1019
+
+Sensor values:
+1019 | 1019 | 1019
+
+Sensor values:
+1019 | 1019 | 1019
+
+Sensor values:
+1019 | 1019 | 1018
+
+Sensor values:
+1019 | 1019 | 1018
+
+Sensor values:
+1019 | 1019 | 1018
+
+Sensor values:
+1019 | 1019 | 1018
+
+Sensor values:
+1019 | 1019 | 1019
+
+Sensor values:
+1019 | 1019 | 1019
+
+Sensor values:
+1019 | 1019 | 1019
+
+Sensor values:
+1019 | 1019 | 1019
+
+Sensor values:
+1019 | 1019 | 1019
+
+Sensor values:
+1019 | 1019 | 1019
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1020 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1020 | 1020
+
+Sensor values:
+1019 | 1020 | 1020
+
+Sensor values:
+1019 | 1020 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1020 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1020 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1020 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1019
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1020 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1020 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1019
+
+Sensor values:
+1019 | 1019 | 1019
+
+Sensor values:
+1019 | 1019 | 1019
+
+Sensor values:
+1019 | 1019 | 1019
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1019
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1019
+
+Sensor values:
+1019 | 1019 | 1019
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1020 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1020 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1020 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1020
+
+Sensor values:
+1019 | 1019 | 1019
+
+Sensor values:
+1020 | 1020 | 1020
+
+Sensor values:
+1019 | 1020 | 1019
+
+Sensor values:
+1019 | 1019 | 1019
+
+Sensor values:
+1019 | 1020 | 1020
+
+Sensor values:
+1019 | 1020 | 1020
+
+Sensor values:
+1020 | 1020 | 1020
+
+Sensor values:
+1019 | 1020 | 1020
+
+Sensor values:
+1020 | 1019 | 1020
+
+Sensor values:
+1013 | 1017 | 1018
+
+Sensor values:
+1019 | 1020 | 1020
+
+Sensor values:
+1019 | 1020 | 1019
